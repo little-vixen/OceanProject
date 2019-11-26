@@ -1,0 +1,9 @@
+%
+% Platform OB27M
+% Location 33 59.646 deg N  77 21.144 deg W
+% Quality  0 = not evaluated, 1 = bad, 2 = suspect, 3 = good, -9 = missing
+%
+% fluorescence (RFU)
+% depth (m)
+%
+timestamp_utc,depth,fluorescence,fluorescence_quality
